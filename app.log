@@ -1,0 +1,17 @@
+2026-04-13 11:20:56,072 - WARNING - app - Invalid email attempt
+2026-04-13 11:20:56,072 - WARNING - app - Wrong password attempt
+2026-04-13 11:20:56,072 - INFO - app - User logged in successfully
+2026-04-13 11:22:52,920 - WARNING - app - Invalid email attempt
+2026-04-13 11:22:52,921 - WARNING - app - Wrong password attempt
+2026-04-13 11:22:52,921 - INFO - app - User logged in successfully
+2026-04-13 17:48:11,887 - INFO - app - User logged in successfully: admin@gmail.com
+2026-04-15 16:20:57,112 - INFO - app - User logged in successfully: test2@example.com
+2026-04-15 16:21:59,315 - WARNING - app - Wrong password attempt
+2026-04-15 16:23:31,888 - INFO - app - User logged in successfully: test2@example.com
+2026-04-15 16:45:45,798 - INFO - app - User logged in successfully: test2@example.com
+2026-04-15 16:45:49,581 - INFO - app - User logged in successfully: test2@example.com
+2026-04-15 16:50:32,238 - INFO - app - User logged in successfully: test2@example.com
+2026-04-15 16:50:33,753 - INFO - app - User logged in successfully: test2@example.com
+2026-04-15 16:50:34,899 - INFO - app - User logged in successfully: test2@example.com
+2026-04-15 16:50:36,077 - INFO - app - User logged in successfully: test2@example.com
+2026-04-15 16:50:37,449 - INFO - app - User logged in successfully: test2@example.com
